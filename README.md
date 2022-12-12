@@ -20,7 +20,7 @@ En mi página de [github]() podrás encontrar algunos de mis proyectos.
 * Entre otros
 
 ## Contáctame
-Puedes contactarme mediante:
+Puedes contactarme mediante:  
 Correo: [manu@correo.mail]()  
 Twitter: [@manu]()  
 Instagram: [@manu_]()  
